@@ -18,7 +18,6 @@
     <br />
     <img alt="Answers" src="./Answers.png" />
  </p>
-
 <br>
 
 For this project I will be sharing coding challenges and their solutions. When you click the questions link you will be taken to site(Like leetcode) where the question asked. When you click to answer you will be taken to my personal repl page where I share my answers. Feel free to contribute by the instructions below or reaching out to me from my social media accounts.
