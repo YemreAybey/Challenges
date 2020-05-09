@@ -1,4 +1,4 @@
-<h1 align="center">My Portfolio Site 👋</h1>
+<h1 align="center">Code Challenges 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/YemreAybey/Challenges#readme" target="_blank">
