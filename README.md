@@ -24,7 +24,7 @@ For this project I will be sharing coding challenges and their solutions. When y
 
 ## Usage
 
-> To see the questions or their answer just click the provided links.
+> To see the questions or their answers just click the provided links.
 
 ## Authors
 
