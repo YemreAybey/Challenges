@@ -14,6 +14,8 @@
 
 <p>
     <img alt="Question" src="./question.png" />
+    <br />
+    <br />
     <img alt="Answers" src="./Answers.png" />
  </p>
 
