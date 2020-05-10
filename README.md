@@ -46,6 +46,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Questions and Answers
 
 - Palindrome Number [Question](https://leetcode.com/problems/palindrome-number/) - [Answer](https://repl.it/@Yemre/Palindrome-Number).
+- Remove Duplicates From Sorted Array [Question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Answer](https://repl.it/@Yemre/Remove-Duplicates-From-Sorted-Array).
 
 ## Show your support
 
